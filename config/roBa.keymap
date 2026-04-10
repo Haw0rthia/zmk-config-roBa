@@ -101,7 +101,7 @@
         NUM {
             bindings = <
 &kp ESCAPE           &kp LEFT_BRACKET  &kp HASH     &kp DOLLAR     &kp PERCENT                                         &kp EQUAL  &kp LCTRL  &kp DOUBLE_QUOTES  &kp MINUS  &kp LS(INTERNATIONAL_1)
-&kp INTERNATIONAL_3  &kp AMPERSAND     &kp AT_SIGN  &kp SEMICOLON  &kp SQT      &kp LC(LA(KP_NUMBER_0))      &trans    &mkp MB3   &mkp MB1   &mkp MB2           &trans     &trans
+&kp INTERNATIONAL_3  &kp AMPERSAND     &kp AT_SIGN  &kp SEMICOLON  &kp SQT      &kp LC(LA(KP_NUMBER_0))      &trans    &mkp MB3   &mkp MB1   &mkp MB2           &kp W      &trans
 &mt LEFT_SHIFT F1    &kp F2            &kp F3       &kp F4         &kp F5       &kp F11                      &kp F12   &kp F6     &kp F7     &kp F8             &kp F9     &kp F10
 &trans               &trans            &trans       &trans         &trans       &trans                       &mkp MB4  &mkp MB5                                            &trans
             >;
